@@ -1,0 +1,8 @@
+patch < Makefile.patch
+mv -f cmdReader-ref.16.linux cmdReader-ref.linux16
+mv -f cmdReader-ref.18.linux cmdReader-ref.linux18
+rm -f cmdReader-ref.linux
+mv -f cmdReader.o.16.linux cmdReader.o.linux16
+mv -f cmdReader.o.18.linux cmdReader.o.linux18
+rm -f cmdReader.o.linux
+make linux18

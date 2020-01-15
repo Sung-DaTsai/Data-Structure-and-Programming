@@ -1,0 +1,150 @@
+adtdelete -a
+adtp
+adtdelete -s 9
+adtp
+adtdelete -f 5
+adtdelete -f 6
+adtdelete -b 6
+adtdelete -r 7
+adtp
+adts
+adtp
+adtq 9
+adtprint -r
+adtprint 0
+adtprint 2
+help
+adtreset 7
+adtp
+adta -s 89
+adtr 3
+adtp
+adta -s 88889
+adtp
+adtp -s %$#
+adta -s %$#
+adtp
+adtd -b 90
+adtp
+adta -r 90
+adtp
+adts
+adtp
+adtd -a
+adtp
+adta -a 90
+adta -r 90
+adtp
+adts
+adtq aet
+adta -r 80
+adtp
+adts
+adtp
+adta 89
+adtadd -s 89
+adtp
+adts
+adtp
+adtdelete -f 8
+adtp
+adtdelete -b 8
+adtp
+adtd -s yca
+adtp
+adtdelete -r 9
+adtp
+adts
+adtp
+adtq zgf
+adtq 88
+adta -r 8
+adtp
+adts
+adtp
+adtdelete -f 200
+adtp
+adta -r 60
+adtp
+adtprint 9
+adtd -s 88
+adtd -b 90
+adtp
+adta -r 90
+adtp -r 91
+adtp
+adtd -b 89
+adtp
+adtd -r 87
+adtp
+adta -r 90
+adtd -r 87
+adtp
+adts
+adtp
+adtr 9
+adtp
+adta -s 88889
+adtp
+adtp -s %$#
+adta -s %$#
+adtp
+adtd -b 90
+adtp
+adta -r 90
+adtp
+adts
+adtp
+adtd -a
+adtp
+adta -a 90
+adta -r 90
+adtp
+adts
+adtq aet
+adta -r 80
+adtp
+adts
+adtp
+adta 89
+adtadd -s 89
+adtp
+adts
+adtp
+adtdelete -f 8
+adtp
+adtdelete -b 8
+adtp
+adtd -s yca
+adtp
+adtdelete -r 9
+adtp
+adts
+adtp
+adtq zgf
+adtq 88
+adta -r 8
+adtp
+adts
+adtp
+adtdelete -f 200
+adtp
+adta -r 60
+adtp
+adtprint 9
+adtd -s 88
+adtd -b 90
+adtp
+adta -r 90
+adtp -r 91
+adtp
+adtd -b 89
+adtp
+adtd -r 87
+adtp
+adta -r 90
+adtd -r 87
+adtp
+q -f
+adts
+adtp

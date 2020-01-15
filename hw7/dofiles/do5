@@ -1,0 +1,47 @@
+taski 1000000
+taskn -r 100000
+taskq -ha
+taskq -he
+taskq -min
+taska 100 -r 101
+taskr -r 8787
+taskq -ha
+taskq -he
+taskq -min
+taska 878 -r 1000
+taskq -ha
+taskq -he
+taskq -min
+taski 100000
+tasknew -r 80000
+taskr -r 8989
+taskq -ha
+taskq -he
+taskq -min
+taska 3820 -r 909
+taskq -ha
+taskq -he
+taskq -min
+taskr -r 10000
+taskq -ha
+taskq -he
+taskq -min
+taskn -r 10000
+taskq -ha
+taskq -he
+taskq -min
+taskr -r 1000000
+taskq -ha
+taskq -he
+taskq -min
+taska 100 -r 100
+taski 8700
+taskn -n h 10
+taskn -n a 100
+taskn -r 8090
+taskq -ha
+taskq -he
+taskq -min
+taski 100
+usage
+q -f

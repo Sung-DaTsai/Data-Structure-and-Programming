@@ -1,0 +1,27 @@
+taski 100
+taskn -r 100
+taskq -hash
+taskq -min
+taskq -heap
+taskr -r 10
+taskq -heap
+taskq -hash
+taskq -min
+taskr -r 10
+taskq -heap
+taskq -hash
+taskq -min
+taskr -r 10
+taskq -heap
+taskq -hash
+taskq -min
+taskr -r 10
+taskq -heap
+taskq -hash
+taskq -min
+taskr -r 10
+taskq -heap
+taskq -hash
+taskq -min
+usage
+q -f

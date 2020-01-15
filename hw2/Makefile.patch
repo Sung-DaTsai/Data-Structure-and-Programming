@@ -1,0 +1,13 @@
+--- Makefile.old	2019-09-26 00:27:36.000000000 +0800
++++ Makefile	2019-09-26 00:27:49.000000000 +0800
+@@ -62,8 +62,9 @@
+ .cmdCharDef:
+ 	@rm -f cmdCharDef.o
+ 
+-linux mac:
++linux18 linux16 mac:
+ 	@ln -sf cmdReader.o.$@ cmdReader.o.ref
++	@ln -sf cmdReader-ref.$@ cmdReader-ref
+ 
+ clean:
+ 	rm -f *.o cmdReader testAsc
